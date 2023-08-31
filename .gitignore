@@ -19,6 +19,7 @@
 .nvmrc
 sftp-config.json
 Thumbs.db
+node_modules/
 
 
 /svgs
